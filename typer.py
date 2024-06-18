@@ -10,7 +10,7 @@ for i in range(1, len(sys.argv)):
 	this_letter_file = open("[your path]/tp-ascii/words/" + sys.argv[i]) #there is probably a way to automate this :3    
 	i = 0   															 #using ./ didn't work because when I was 
 	for line in this_letter_file:										 #somewhere else in the terminal it cried 
-	this_letter.append(line.rstrip('\n'))
+		this_letter.append(line.rstrip('\n'))
 		i += 1
 	text.append(this_letter)
 
