@@ -25,20 +25,35 @@ if you want to add more words or puncutation characters: What you should do is t
 possible things:
 
 __ ~ a linebreak
+
 _ ~ a whitespace
+
 , ~ a centered period
+
 : ~ a colon
+
 { ~ beginning of a cartouche
+
 } ~ ending of a cartouche
+
 all non-synonym pu-words
+
 both ale and ali
+
 kijetesantakalu
+
 kin
+
 ku
+
 leko
+
 misikeke
+
 monsuta
+
 soko
+
 tonsi
 
 
